@@ -68,8 +68,8 @@
   "address_prefix": "WLS",
   "wls_api_url": "https://api.whaleshares.io",
   "s3": {
-    "access_key": "AKIAXVC3EAK2C7KXYWNB",
-    "secret_key": "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",
+    "access_key": "",
+    "secret_key": "",
     "region": "us-east-2",
     "endpoint": "s3.us-east-2.amazonaws.com",
     "signatureVersion": "v4",
